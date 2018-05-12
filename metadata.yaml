@@ -1,0 +1,30 @@
+_repo: Le-Voluptueux-Voyage_20244
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Comminges, Aimery de, comte de
+    aliases:
+    - Ginko et Biloba
+    - Comminges, Marie-Aimery de
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '9182'
+    url: http://www.gutenberg.org/2009/agents/9182
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20244'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Le Voluptueux Voyage
+url: http://www.gutenberg.org/ebooks/20244
