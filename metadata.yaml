@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9182'
     url: http://www.gutenberg.org/2009/agents/9182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20244#Le-Voluptueux-Voyage
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-01-01'
 gutenberg_type: Text
